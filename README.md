@@ -3,7 +3,10 @@
 I'm a recent college graduate in business analytics looking to practice some of my coding and data science skills.
 
 This is where I am hosting all of my portfolio projects.
-For the rendered html of my time series modeling project, click [here](https://fortmaad.github.io/class_project/FinalProject.html).
+
+Rendered HTML links:
+- [Time Series Modeling](https://fortmaad.github.io/class_project/FinalProject.html)
+- [Water Safety Modeling](https://fortmaad.github.io/water_safety/WaterSafety.html)
 
 - 👀 I’m interested in all things data science, but specifically machine learning
 - 🌱 I’m currently learning DL principles and advanced OOP concepts
