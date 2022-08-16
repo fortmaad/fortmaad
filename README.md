@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexander
+# Hi, I'm Alexander
 
 I'm a recent college graduate in business analytics looking to practice some of my coding and data science skills.
 
@@ -10,7 +10,7 @@ Rendered HTML links:
 
 About Me:
 - 👀 I’m interested in all things data science, but specifically machine learning
-- 🌱 I’m currently learning DL principles and advanced OOP concepts
+- 🌱 I’m currently learning DL principles
 - 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/alexanderfortman/)
 
 <!---
