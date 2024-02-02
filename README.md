@@ -1,9 +1,5 @@
 # Hi, I'm Alexander
 
-I'm a recent college graduate in business analytics looking to practice some of my coding and data science skills.
-
-This is where I am hosting all of my portfolio projects.
-
 Rendered HTML links:
 - [Time Series Modeling](https://fortmaad.github.io/class_project/FinalProject.html)
 - [Water Safety Modeling](https://fortmaad.github.io/water_safety/WaterSafety.html)
